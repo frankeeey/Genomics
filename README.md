@@ -2,4 +2,5 @@
 Genomics Interview Test
 
 
-![image](https://github.com/user-attachments/assets/b9f55582-080c-4963-905c-89ad0bcae3a5)
+![Untitled Diagram](https://github.com/user-attachments/assets/77303073-17ed-4c2a-b677-c86c19700c35)
+
